@@ -18,7 +18,7 @@ This project is a simple weather forecast website built using HTML, CSS, and Jav
 ## How to Use
 
 1. Clone the repository to your local machine.
-2. Open the `index.html` file in your web browser or just click on the [link](https://purvaansh04.github.io/Weather-App/)
+2. Open the `index.html` file in your web browser or just click on [this link](https://purvaansh04.github.io/Weather-App/)
 3. Enter the desired location in the search bar and press enter.
 4. The website will fetch the weather data and display it on the screen.
 
